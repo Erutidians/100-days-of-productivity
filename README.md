@@ -13,8 +13,6 @@ More details about the challenge can be found here:
 
 ## Rounds
 
-### [Round 1](Round-1/README.md)
-
-|         Round          | Start Date | End Date | Status |
-| :--------------------: | :--------: | :------: | :----: |
-| [1](Round-1/README.md) |            |          |        |
+|         Round          | Start Date | End Date |  Status  |
+| :--------------------: | :--------: | :------: | :------: |
+| [1](Round-1/README.md) | ---------- | -------- | -------- |
